@@ -10,3 +10,9 @@
 ## Scripts
 
 - [scripts/port-scanner](scripts/port-scanner)：基于 Python 实现，一个简单的端口扫描器，用于检测目标主机上的开放端口。
+
+
+## Screenshots
+
+
+![MusicHubPlayer](screenshots/music-player.png)
